@@ -1,0 +1,21 @@
+/*
+ *Name: [Noah Walser]
+ *UnityID: [NWWALSER]
+ *Date: [11/9/2024]
+ *Assignment: [Project 4]
+ *Description: [HTML and Styling assignment]
+ */
+ 
+p {
+    background-color: #6b9fe2;
+}
+
+.table-border {
+    border: 1px solid #12ac76;
+}
+
+#photo-styling {
+    max-width: 200px;
+    max-height: 250px;
+    border: 2px solid #008000;
+}
